@@ -1,4 +1,4 @@
-package com.devsuperior.hrworker.entities;
+package com.devsuperior.hrworker.model;
 
 import javax.persistence.*;
 import java.io.Serializable;
